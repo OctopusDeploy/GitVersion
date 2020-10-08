@@ -1,0 +1,1 @@
+dotnet pack -c:Release -p:Version=1.0.0-octopusinternal -p:Version=1.0.0-octopusinternal /p:PackAsTool=true
